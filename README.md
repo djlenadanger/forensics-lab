@@ -1,2 +1,2 @@
 # forensic-lab
-# Short description of the lab and a one‑paragraph narrative of the iPhone MVT project
+#Overview of the lab; links to major projects and how to navigate the notebook
