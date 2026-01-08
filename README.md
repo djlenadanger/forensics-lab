@@ -1,2 +1,2 @@
-# forensic-lab
-#Overview of the lab; links to major projects and how to navigate the notebook
+# forensics-lab
+#Overview of the labs; links to major projects and how to navigate the notebook
